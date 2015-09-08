@@ -80,3 +80,5 @@
     }
     return _height;
 	```
+ - **默认情况下，当一个cell被选中时，cell内部的所有子控件（比如label、imageView）都自动进入highlighted状态**
+ - **如果cell的selectionStyle为None，那么cell被选中时，内部的子控件就不会自动进入highlighted状态**
