@@ -3,6 +3,7 @@
 - 安装CocoaPods的步骤:
     + 1.升级一下gem `sudo gem update --system`
     + 2.切换CocoaPods的数据源
+    
     ```
     gem sources --remove https://rubygems.org/
     gem sources -a http://ruby.taobao.org/
@@ -34,3 +35,6 @@ pod setup在执行时，会输出Setting up CocoaPods master repo，但是会等
     + 如何安装插件 https://github.com/kattrali/cocoapods-xcode-plugin/archive/master.zip
     + 如何查看一个框架是否支持cocoapods
         * 看框架中是否有一个叫做 xxx.podspec文件
+    ```
+重启电脑按住option别松手等出现一个启动盘的画面按command + r 进入到恢复模式 然后在工具栏找到终端 在终端中输入csrutil disable
+
