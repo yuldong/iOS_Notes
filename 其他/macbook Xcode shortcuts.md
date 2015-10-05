@@ -2,6 +2,8 @@
 ##命令
 `defaults write com.apple.finder AppleShowAllFiles -bool true`
 
+`~ 波浪线是Mac OS X用于表示根目录的缩写`
+
 ## 键盘符号
 - command
 - option
